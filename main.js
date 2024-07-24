@@ -8,7 +8,7 @@ function move() {
     function frame() {
         if (width >= 100) {
           elem.innerHTML = "Abrir"
-          elem.href = 'https://mateus-santos.github.io/mateusdeveloper/'
+          elem.href = 'https://mateus-santos.github.io/'
         }
         else {
             width++;
